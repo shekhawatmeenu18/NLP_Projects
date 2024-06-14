@@ -1,0 +1,9 @@
+Folder to keep track of all GEN_AI projects at one place. 
+
+Details:
+1. T5 Finetune
+2. LLama
+3. PEFT Fine-tuning
+4. Prompting techniques
+5. LLM evaluation technique
+
